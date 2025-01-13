@@ -5,6 +5,8 @@
 // @description  Check if a specific div exists every second, find unique image links, and provide options to copy or download
 // @author       Lmoe
 // @match        https://www.yuketang.cn/*
+// @downloadURL  https://ghproxy.net/https://raw.githubusercontent.com/CN-Lmoe/FUCK-YKT/main/FUCK-qn.yuketang.js
+// @updateURL    https://ghproxy.net/https://raw.githubusercontent.com/CN-Lmoe/FUCK-YKT/main/FUCK-qn.yuketang.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
